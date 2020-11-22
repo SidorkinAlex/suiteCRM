@@ -18,7 +18,7 @@ class ApiConfig
 
     const OAUTH2_PRIVATE_KEY = 'Api/V8/OAuth2/private.key';
     const OAUTH2_PUBLIC_KEY = 'Api/V8/OAuth2/public.key';
-    const OAUTH2_ENCRYPTION_KEY = 'yeovXmA76na4LjBBVnppmnRtcVWAhkS1ofpwes0F8o8=';
+    const OAUTH2_ENCRYPTION_KEY = '/61A2M0+tMkpoyxV6EkGWLEowcyiuLR4PNAFaMper4A=yeovXmA76na4LjBBVnppmnRtcVWAhkS1ofpwes0F8o8=';
     
     /**
      *
